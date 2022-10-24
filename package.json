@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "compressing": "^1.6.2",
+    "extract-zip": "^2.0.1",
+    "fs-extra": "^10.1.0",
+    "path-extra": "^4.3.0",
+    "unzip": "^0.1.11"
+  }
 }
